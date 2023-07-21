@@ -1,4 +1,4 @@
-# Digital-Sprit-Level
+# Digital-Sprit-Level- iBALANCER
 This is Simple Electronic project that I am done in 2nd year (4th Semester) in University.
 
 
